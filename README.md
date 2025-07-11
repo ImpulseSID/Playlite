@@ -13,7 +13,7 @@ Playlite is a modern Android video player and file explorer app. It allows users
 
 ## Screenshots
 
-*(Add screenshots here)*
+
 
 ## Getting Started
 
@@ -46,15 +46,9 @@ Playlite is a modern Android video player and file explorer app. It allows users
 - Some features may require additional permissions on Android 11+.
 - Only common video formats are supported by default.
 
-## License
-
-*(Specify your license here, e.g., MIT, Apache 2.0, etc.)*
 
 ## Credits
 - [ExoPlayer (AndroidX Media3)](https://developer.android.com/guide/topics/media/exoplayer)
 - [Material Components for Android](https://material.io/develop/android)
 
----
-
-*This README was generated based on the current project files.*
 
